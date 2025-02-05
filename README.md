@@ -1,7 +1,6 @@
 # Analog Clock in Python (Tkinter)
 
-[
-](https://github.com/lucalevi/analog_clock/blob/main/clock.png)
+![image](https://github.com/user-attachments/assets/9f91bbcd-db59-4a14-ad1b-376f30670e6d)
 
 A simple **analog clock** built using Python and Tkinter. This project visually represents an analog clock with hour, minute, and second hands, along with numbers and tick marks.
 
