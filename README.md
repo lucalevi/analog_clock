@@ -62,7 +62,7 @@ sudo dnf install python3-tkinter
 ## Running the Analog Clock
 Once Tkinter is installed, clone this repository and run the script:
 ```sh
-git clone https://github.com/yourusername/analog-clock.git
+git clone https://github.com/lucalevi/analog-clock.git
 cd analog-clock
 python analog_clock.py
 ```
@@ -73,4 +73,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ## License
 This project is open-source and available under the **MIT License**.
+
+## Disclosure
+The programme as well as the documentation has been developed thanks to DeepSeek and ChatGPT.
+
 
